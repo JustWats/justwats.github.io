@@ -1,14 +1,20 @@
 [
     {
-        "from": "test1",
+        "from": "SYSTEM",
         "to": ["gentry"],
-        "title": "test1",
-        "body": "test1"
+        "title": "ATTACHMENT 0 - SUBJECT: V. TANEV - INVESTIGATION RECORDS",
+        "body": "[The room is shrouded in dim light, casting long shadows. Dr. Valtor Tanev sits across from the C24:i2.XRAY-11, his face a mask of calm amidst the storm of his thoughts. The recorder between them casts a small, ominous red glow.] C24:i2.XRAY-11: State your name and recount your early years. Dr. Valtor Tanev: Valtor Tanev. My early years in the previous days were simple and formative. My parents, a father who was a veteran in the cold war, now a carpenter... And my mother, a teacher. They instilled in me a sense of purpose as I grew.. And well- I guess the biggest teaching was about finding an importance of standing for something. We weren't wealthy, but there was richness in our traditions, in the stories and history of our land. C24:i2.XRAY-11: Your military service – expand on that experience. Dr. Tanev: At eighteen, I joined the Land Forces. It was something my father encouraged; I guess it was a rite of passage. The discipline was never an issue, it just was not my calling, not that it matters too much anymore. It's where I learned that sometimes, you have to agree to do whats needed to get further, even when the odds are against you. C24:i2.XRAY-11: Of what odds were stacked against you? Dr. Tanev: Wealth really, as I said, we did not really retain the wealth my grandparents accrued. It was probably real humbling for my parents, either way... I had to save a little bit before I could pursue medical studies, and the compulsory service was probably the best thing to gap with at the time."
+},
+    {
+        "from": "SYSTEM",
+        "to": ["gentry"],
+        "title": "ATTACHMENT 1 - SUBJECT: V. TANEV - INVESTIGATION RECORDS",
+        "body": "The interviewer's tone shifts, seeking to delve deeper into Tanev's past. Tanev remains composed, yet his responses reflect the depth of his experiences.] C24:i2.XRAY-11: Why medicine? What drove you to this field? Dr. Tanev: Medicine was how I enjoyed making a difference, the bonds built between colleagues and those aided. The first death I ever had to witness, I felt helpless as a bystander, just watching my friend get his life ripped away from him. My goal was to become a surgeon, to be responsible for as much good as I could possibly do. But that path was disrupted when the transitions of civilization came. At first I felt torn through my life, as I'm sure others did, only uncertainty in its wake at the infancy. C24:i2.XRAY-11: How did you adapt to the aftermath? Dr. Tanev: Adapting wasn't a choice; it was a necessity. In the tumult of the first year, I joined the Civil Medical unions. Every day was a battle in the early uprisings, the workload was intense, both against the patients' loss of hope. We were saving lives, yes, but we were also trying to help others hold onto some postive semblance of the world that was stand together in now."
     },
     {
-        "from": "test2",
+        "from": "SYSTEM",
         "to": ["gentry"],
-        "title": "test2",
-        "body": "test2"
+        "title": "ATTACHMENT 2 - SUBJECT: V. TANEV - INVESTIGATION RECORDS",
+        "body": "The room grows more intense as the conversation steers towards Tanev's critical decision. Tanev’s voice is laced with a mixture of resolution.] C24:i2.XRAY-11: Tell us about the surgery that changed your trajectory. Dr. Tanev: I was not a surgeon for a while. But it took about a decade to get where I am now. It was an uncompromising operation, on one of your leading compatriots. That surgery, it wasn't just about medical skill; it was about proving something. To them, to myself. It made me visible to everyone, put me in a spotlight I never asked for. But it also opened doors, in ways I hadn't anticipated. C24:i2.XRAY-11: And now you're considering joining Civil Protection. Why take this path? Dr. Tanev: This isn't about ambition; it's about what I have to do. Joining Civil Protection feels like a strategic move. It's about needing to do whats needed to get further, about having some control in a world where control is a rare commodity. It's a position that comes with power, yes, but also with responsibility that is only exacerbated by my skillset and field. The kind of responsibility that weighs on you, day and night. C24:i2.XRAY-11: Your loyalties, Dr. Tanev – where do they truly lie? Dr. Tanev: My loyalty is to life, to the oath I took as a medical professional. But in this new world, loyalties aren't black and white. They're a spectrum of grays, and we're all just trying to find our way through them. My decisions, my actions – they're guided by a need to do what's right, even when 'right' is a shifting target."
     }
 ]
