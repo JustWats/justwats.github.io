@@ -1,5 +1,6 @@
 {
     "demo.exe": {
+        "protection": ["n"],
         "help": "Demonstrate some rendering features",
         "clear": true,
         "message": [
@@ -12,7 +13,7 @@
         ]
     },
     "cdata.exe": {
-        "protection": ["admin"],
+        "protection": ["n"],
         "delayed": 2000,
         "message": [
             "Corrupting data.",
@@ -26,13 +27,12 @@
         ]
     },
     "target.exe": {
-        "location": ["127.0.0.1", "localhost"],
+        "location": ["mcpCDBTunnel0"],
         "message": [
-            "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
-            "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
+            "This civil asset<abbr title=\"ACTIVE\"><s>person</s></abbr> is currently:",
+            "<img src=\"https://thispersondoesnotexist.com/\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
     "artifact": {},
-    "decrypt": {},
-    "identify": {}
+    "decrypt": {}
 }
