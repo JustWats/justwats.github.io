@@ -1,6 +1,6 @@
 {
     "year": "2019",
-    "serverAddress": "localhost",
+    "serverAddress": "mcpCDBTunnel0",
     "serverName": "Access Terminal Node Y56 - Ministry of Civil Protection Intranet",
     "iconName": "ministry-civpro.png",
     "terminalID": "Y56",
