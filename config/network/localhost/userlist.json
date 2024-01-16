@@ -1,0 +1,19 @@
+[
+    {
+        "userId": "gentry",
+        "password": "85192g3ntry%%",
+        "userName": "Investigator Gentry, Jermain"
+    },
+	
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+
+    {
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
+    }
+]
