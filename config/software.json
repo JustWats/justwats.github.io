@@ -41,10 +41,8 @@
         "clear": true,
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ MCP ACCESS VERIFIED</p>",
-            "<img src=config/network/localhost/ministry-civpro.png style='width: 10rem' class=glitch>",
             "<p class=desync>Welcome Asset 90215.</p>",
-            "",
-            "<p class=shimmer>Entering Target: </p><p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>Valtor Tanev</p>",
+            "<p class=shimmer>Entering Target: ",
             "",
             "<p class=shimmer>Loading.</p>",
             "",
@@ -52,8 +50,9 @@
             "",
             "<p class=shimmer>Loading...</p>",
             "",
+            "ASSET: <p style=\"color:#00FF36\";>CLEARED</p>",
             "<img src=ValtorTanev.png class=particle data-particules=2000>",
-            "ASSET: <p style=\"color:#00FF36\";>CLEARED</p>"
+            "Render failed."
         ]
     },
     "artifact": {
