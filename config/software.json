@@ -6,8 +6,8 @@
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
             "<p class=desync>SHADY TROUBLING MESSAGE</p>",
-            "<img src=config/network/localhost/ministry-civpro.png style='width: 10rem' class=glitch>",
-            "<p class=shimmer>Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia?</p>",
+            "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
+            "<p class=shimmer>Infected ipsum reversus ab viral inferno, nam Heywood Baker malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit, morbo vel maleficia?</p>",
             "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>All your base are belong to us</p>",
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
@@ -32,6 +32,28 @@
         "message": [
             "This civil asset<abbr title=\"ACTIVE\"></abbr> is currently: <p style=\"color:#00FF36\";>ACTIVE</p>",
             "<img src=\"https://thispersondoesnotexist.com/\" style=\"width: 10rem; max-width: 100%;\">"
+        ]
+    },
+    "investigate": {
+        "location": ["mcpCDBTunnel0"],
+        "protection": ["gentry"],
+        "help": "Conduct a Combine Civil Authority asset investigation.",
+        "clear": true,
+        "message": [
+            "<p class=glow style='font-size: 3em'>⚠ MCP ACCESS VERIFIED</p>",
+            "<img src=config/network/localhost/ministry-civpro.png style='width: 10rem' class=glitch>",
+            "<p class=desync>Welcome Asset 90215.</p>",
+            "",
+            "<p class=shimmer>Entering Target: </p><p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>Valtor Tanev</p>",
+            "",
+            "<p class=shimmer>Loading.</p>",
+            "",
+            "<p class=shimmer>Loading..</p>",
+            "",
+            "<p class=shimmer>Loading...</p>",
+            "",
+            "<img src=ValtorTanev.png class=particle data-particules=2000>",
+            "ASSET: <p style=\"color:#00FF36\";>CLEARED</p>"
         ]
     },
     "artifact": {
