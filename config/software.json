@@ -26,11 +26,11 @@
             "System successfully corrupted!"
         ]
     },
-    "target.exe": {
+    "target": {
         "location": ["mcpCDBTunnel0"],
         "protection": ["gentry"],
         "message": [
-            "This civil asset<abbr title=\"ACTIVE\"></abbr> is currently: <p style=\"color:green;>\"ACTIVE\"</p>",
+            "This civil asset<abbr title=\"ACTIVE\"></abbr> is currently: <p style=\"color:#00FF36\";>ACTIVE</p>",
             "<img src=\"https://thispersondoesnotexist.com/\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
