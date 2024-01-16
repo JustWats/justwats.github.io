@@ -53,7 +53,8 @@
             "",
             "ASSET: <p style=\"color:#00FF36\";>CLEARED</p>",
             "<img src=ValtorTanev.png class=particle data-particules=2000>",
-            "Render failed."
+            "Render failed.",
+            "Database query records delivered to investigator email on record at the current node."
         ]
     },
     "artifact": {
