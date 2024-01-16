@@ -41,5 +41,5 @@
     "decrypt": {
         "location": ["localhost", "mcpCDBTunnel0"],
         "protection": ["gentry"]
-    },
+    }
 }
