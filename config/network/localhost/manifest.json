@@ -1,0 +1,15 @@
+ {
+    "year": "2019",
+    "serverAddress": "mcpCDBTunnel0",
+    "serverName": "Secure Tunnel Y92 - Combine Civil Authority Civil Asset Database",
+    "iconName": "civil-database.png",
+    "terminalID": "Y92",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "unauthenticated"
+    },
+    "randomSeed": true,
+    
+    "latestKernel": true
+}
